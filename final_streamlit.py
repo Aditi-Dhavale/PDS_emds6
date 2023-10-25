@@ -71,7 +71,7 @@ st.markdown('<div id="custom-upload-text">Upload the Image from any of 21 classe
 
 # Loading the model and other operations
 # Note: The path to the model is specific to your system. Update it accordingly.
-saved_model1 = load_model(r'C:\Users\Abhishek Sinha\College\SEM 3\PDS\fip_mobilenet.hdf5')
+saved_model1 = load_model('PDSmodel.hdf5')
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "png", "tiff", "bmp"])
 
