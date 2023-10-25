@@ -9,3 +9,4 @@ opencv-python-headless==4.8.0.76
 Pillow==8.3.2
 numpy==1.19.5
 streamlit==1.0.0
+click==7.1.2
