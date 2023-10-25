@@ -6,7 +6,6 @@ tensorboard-plugin-wit==1.8.1
 tensorflow==2.11.0
 tensorflow-estimator==2.11.0
 tensorflow-io-gcs-filesystem==0.31.0
-opencv-contrib-python==4.8.0.74
 opencv-python==4.8.1.78
 Pillow==8.4.0
 numpy==1.22.4
