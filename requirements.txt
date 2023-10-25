@@ -6,7 +6,7 @@ tensorboard-plugin-wit==1.8.1
 tensorflow==2.11.0
 tensorflow-estimator==2.11.0
 tensorflow-io-gcs-filesystem==0.31.0
-opencv-python==4.8.0
+opencv-python-headless==4.8.0
 Pillow==8.4.0
 numpy==1.22.4
 streamlit==1.0.0
