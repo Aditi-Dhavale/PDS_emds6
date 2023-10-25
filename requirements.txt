@@ -1,9 +1,9 @@
-keras==2.6.0
-tensorflow==2.6.0
-tensorboard==2.6.0
+keras==2.4.3
+tensorflow==2.4.1
+tensorboard==2.4.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
-tensorflow-estimator==2.6.0
+tensorflow-estimator==2.4.0
 tensorflow-io-gcs-filesystem==0.22.0
 opencv-python-headless==4.8.0.76
 Pillow==8.3.2
