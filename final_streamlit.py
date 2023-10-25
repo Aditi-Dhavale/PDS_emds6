@@ -32,7 +32,7 @@ st.markdown(f"""
 
     /* Background image for the entire page */
     body, .main {{
-        background-image: url('https://img.freepik.com/free-photo/3d-medical-background-with-virus-cells-dna-strand_1048-11512.jpg?w=1060&t=st=1698162991~exp=1698163591~hmac=1fc015d1beec5853e480ce885726115dd592d91ff49acf1ef82b8fd89b6c8c22');
+        background-image: url('https://www.verywellhealth.com/thmb/EXEWjBZl9XM28T5VkO_k7RqxgzY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1286811004-f6718158f93d418d838933042068cd06.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
