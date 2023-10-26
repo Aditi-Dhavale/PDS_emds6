@@ -2,7 +2,7 @@ keras==2.4.3
 tensorflow==2.5.0
 opencv-python-headless==4.8.0.76
 Pillow==8.3.2
-numpy==1.19.5
+numpy==1.22.4
 six==1.15.0
 streamlit==1.0.0
 click==7.1.2
